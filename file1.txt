@@ -1,1 +1,2 @@
 Changes from branch testbranch
+Changes from master
